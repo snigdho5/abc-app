@@ -1,0 +1,56 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="89" viewBox="0 0 375 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c8b8"/>
+      <stop offset="1" stop-color="#71bbe4"/>
+    </linearGradient>
+  </defs>
+  <title>banner_plumbing_P0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-1" d="M0,0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-2" x="24" y="22" width="47" height="7" rx="3" ry="3"/>
+        <rect id="Rectangle-Copy-4" class="cls-2" x="187" y="29" width="47" height="7" rx="3" ry="3"/>
+        <rect id="Rectangle-Copy-3" class="cls-2" x="65" y="35" width="47" height="7" rx="3" ry="3"/>
+        <rect id="Rectangle-Copy-5" class="cls-2" x="234" y="42" width="47" height="7" rx="3" ry="3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-3">
+            <text class="cls-4" transform="translate(356 33)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-3">
+            <text class="cls-4" transform="translate(337 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-5" d="M0,0ZM0,0ZM0,0ZM0,0Z"/>
+    <path class="cls-5" d="M0,0Z"/>
+    <path class="cls-5" d="M0,0Z"/>
+    <path class="cls-5" d="M0,0Z"/>
+  </g>
+</svg>

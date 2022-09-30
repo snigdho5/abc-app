@@ -1,0 +1,76 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-10);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="45.2" y1="89.23" x2="-16.3" y2="-7.77" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="79.85" y1="67.27" x2="18.35" y2="-29.73" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="61.94" y1="78.63" x2="0.44" y2="-18.37" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="55.69" y1="82.58" x2="-5.81" y2="-14.42" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="79.25" y1="67.65" x2="17.75" y2="-29.35" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="68.3" y1="74.59" x2="6.8" y2="-22.41" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="45.66" y1="88.95" x2="-15.84" y2="-8.05" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="69.21" y1="74.01" x2="7.71" y2="-22.99" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="55.57" y1="82.66" x2="-5.93" y2="-14.34" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="63.29" y1="77.76" x2="1.79" y2="-19.24" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_electrical_E01</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <g>
+    <path class="cls-2" d="M10.7,36.3a.7.7,0,0,0,.7-.7V34.1a.8.8,0,0,0-.7-.8.8.8,0,0,0-.7.8v1.5A.7.7,0,0,0,10.7,36.3Z"/>
+    <path class="cls-3" d="M59.3,33.3a.8.8,0,0,0-.7.8v1.5a.7.7,0,1,0,1.4,0V34.1A.8.8,0,0,0,59.3,33.3Z"/>
+    <path class="cls-4" d="M53.7,36.1a.7.7,0,0,0-.7-.7H17a.7.7,0,0,0-.7.7.8.8,0,0,0,.7.8H53A.8.8,0,0,0,53.7,36.1Z"/>
+    <path class="cls-5" d="M19.7,26.6a.5.5,0,0,0,.5.3h.5a.8.8,0,0,0,.1-1l-3.5-4.6a.8.8,0,0,0-1-.2.7.7,0,0,0-.1,1Z"/>
+    <path class="cls-6" d="M49.8,26.9a.5.5,0,0,0,.5-.3L53.8,22a.7.7,0,0,0-.1-1,.8.8,0,0,0-1,.2l-3.5,4.6a.8.8,0,0,0,.1,1Z"/>
+    <path class="cls-7" d="M34.3,24.6a.7.7,0,0,0,.7-.7V18a.7.7,0,1,0-1.4,0v5.9A.7.7,0,0,0,34.3,24.6Z"/>
+    <path class="cls-8" d="M16.7,49.1a.7.7,0,0,0,.6-.3l3.5-4.6a.8.8,0,0,0-.1-1,.7.7,0,0,0-1,.2L16.2,48a.7.7,0,0,0,.1,1Z"/>
+    <path class="cls-9" d="M52.7,48.8a.7.7,0,0,0,.6.3h.4a.7.7,0,0,0,.1-1l-3.5-4.6a.7.7,0,0,0-1-.2.8.8,0,0,0-.1,1Z"/>
+    <path class="cls-10" d="M33.6,46.1V52A.7.7,0,1,0,35,52V46.1a.7.7,0,1,0-1.4,0Z"/>
+    <path class="cls-11" d="M17,33.9H53a.8.8,0,0,0,.7-.8.7.7,0,0,0-.7-.7H17a.7.7,0,0,0-.7.7A.8.8,0,0,0,17,33.9Z"/>
+  </g>
+</svg>

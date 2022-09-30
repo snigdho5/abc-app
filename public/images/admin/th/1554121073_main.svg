@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="49.93" y1="65.54" x2="18.86" y2="1.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+  </defs>
+  <title>icon_civil_M0</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <path class="cls-2" d="M51.6,10H10V60H60V10Zm-1.4,1.4V23.2H38.4V11.4ZM36.7,25V36.7H25V25ZM11.4,36.7V25H23.2V36.7ZM36.7,11.4V23.2H25V11.4Zm-25.3,0H23.2V23.2H11.4Zm11.8,27V50.2H11.4V38.4ZM58.6,58.6H11.4v-7H24.6V38.1H38.1V24.6H51.6V11.4h7Z"/>
+</svg>

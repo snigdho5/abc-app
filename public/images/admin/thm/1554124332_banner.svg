@@ -1,0 +1,51 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c8b8"/>
+      <stop offset="1" stop-color="#71bbe4"/>
+    </linearGradient>
+  </defs>
+  <title>banner_pumbing_P0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-1" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-2" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-4" class="cls-2" x="186.5" y="29" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-3" class="cls-2" x="64.5" y="35" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-5" class="cls-2" x="233.5" y="42" width="47" height="7" rx="3.3" ry="3.3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-3">
+            <text class="cls-4" transform="translate(359.2 31.2)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-3">
+            <text class="cls-4" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="cls-5" d="M356.5,16H312.6a2.9,2.9,0,0,0-3,2.7,2.9,2.9,0,0,0,3,2.7h.3V35.6c0,2.4,2.3,4.4,5.1,4.4h2.2v2.8H318a3,3,0,0,0-3.1,2.6,2.8,2.8,0,0,0,2.7,2.8c.7,5.6,4.8,10.4,10.7,12.4l.4,1.7a7.1,7.1,0,0,1-.2,4.8h-5.3a1,1,0,0,0-1.1,1v3.5a.9.9,0,0,0,.3.6,1.1,1.1,0,0,0,.8.3H346a1.1,1.1,0,0,0,.8-.3.9.9,0,0,0,.3-.6V68.1a1,1,0,0,0-1.1-1h-5.3a7.7,7.7,0,0,1-.3-4.8l.4-1.7c6-2,10.1-6.8,10.7-12.4a3,3,0,0,0,2.8-2.8,3.1,3.1,0,0,0-3.1-2.6h-2.3V40h2.3c2.8,0,5.1-2,5.1-4.4V21.4h.2a2.9,2.9,0,0,0,3.1-2.7A2.9,2.9,0,0,0,356.5,16ZM345,69v1.6H324.2V69Zm-6.5-1.9h-7.8a8.4,8.4,0,0,0,.1-5.2v-.6a20.5,20.5,0,0,0,7.8,0v.6A8.4,8.4,0,0,0,338.5,67.1Zm-3.9-7.3c-7.6,0-14-5-14.8-11.6h29.6C348.5,54.8,342.2,59.8,334.6,59.8Zm16.6-15.1a.9.9,0,0,1,.9.8.8.8,0,0,1-.9.8H318a.9.9,0,0,1-1-.8,1,1,0,0,1,1-.8ZM334.6,25.5c-6.1,0-11.2,4.4-11.2,9.8v7.5h-1V35.3c0-5.9,5.5-10.7,12.2-10.7s12.2,4.8,12.2,10.7v7.5h-1V35.3C345.8,29.9,340.7,25.5,334.6,25.5Zm9,9.8v7.5H325.5V35.3c0-4.4,4.1-7.9,9.1-7.9S343.6,30.9,343.6,35.3Zm10.5.3a2.8,2.8,0,0,1-2.9,2.6h-2.3V35.3c0-7-6.4-12.6-14.3-12.6s-14.4,5.6-14.4,12.6v2.9H318a2.8,2.8,0,0,1-3-2.6V21.4h39.1Zm2.4-16.1H312.6a.8.8,0,0,1-.9-.8.9.9,0,0,1,.9-.8h43.9a1,1,0,0,1,1,.8A.9.9,0,0,1,356.5,19.5Z"/>
+</svg>

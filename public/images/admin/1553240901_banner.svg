@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Door CloseR  (Concealed) installation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.63673899%" y1="-11.1485635%" x2="51.5179728%" y2="97.7255544%" id="linearGradient-1">
+            <stop stop-color="#64C866" offset="0%"></stop>
+            <stop stop-color="#6EDADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.04402516,57.8449003 L62.9559748,57.8449003 L62.9559748,50.8789922 L7.04402516,50.8789922 L7.04402516,57.8449003 Z M70,44.3228435 L39.2563522,44.3228435 L39.2563522,42.9558865 L57.5285535,18.3703287 L57.5285535,7.17242671 L57.5285535,3.80584434 L57.5285535,-1.13686838e-13 L50.4845283,-1.13686838e-13 L50.4845283,4.96956074 L10.8618868,11.5257095 L10.8618868,19.396366 L4.03622642,19.396366 L4.03622642,25.9525148 L25.3901887,25.9525148 L25.3901887,19.396366 L17.9059119,19.396366 L17.9059119,17.0197621 L50.4845283,11.6273298 L50.4845283,16.3248103 L32.212327,40.9103681 L32.212327,44.3228435 L0,44.3228435 L0,64.401049 L32.6525786,64.401049 L32.6525786,70 L39.6966038,70 L39.6966038,64.401049 L70,64.401049 L70,44.3228435 Z" id="Door-CloseR--(Concealed)-installation" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

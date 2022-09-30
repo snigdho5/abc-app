@@ -1,0 +1,76 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="310.2" y="16.3" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <title>banner_civil_M0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-2" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-3" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-4" class="cls-3" x="186.5" y="29" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-3" class="cls-3" x="64.5" y="35" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-5" class="cls-3" x="233.5" y="42" width="47" height="7" rx="3.3" ry="3.3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-4">
+            <text class="cls-5" transform="translate(298.5 26)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-4">
+            <text class="cls-5" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-6">
+    <g>
+      <path class="cls-7" d="M316.5,64.9a8.4,8.4,0,0,1-.6-6.5,5.9,5.9,0,0,1,.6-1.4l1-1.5a18.5,18.5,0,0,1,5.3-4.1l1.1-.5.5-.3h.1l.8-.3a21.7,21.7,0,0,0,4.5-1.8,12.2,12.2,0,0,0,2.8-2,14.8,14.8,0,0,0,4.1-6.4,10.3,10.3,0,0,1,.4-1.4c.2-1.2.4-2.4.5-3.8v-.3c0-.5.1-1,.1-1.4l.3-1.5.3-1.5a28.6,28.6,0,0,1,1.5-4.1c.2-.5.5-.9.7-1.4l.9-1.4a6.4,6.4,0,0,1,1-1.3c.1-.2.1-.3.2-.4l1.2-1.3a31.7,31.7,0,0,1,2.6-2.6l2-1.4h.2l-.7-1.2-2,1.3H342V20l-.8,1.1-.6.8h-.1V16.3H323.8v7h15.9a6.4,6.4,0,0,0-.8,1.4H334v7h2.5c-.1.5-.1,1-.2,1.5H323.8v6.9h11.3a13.3,13.3,0,0,1-2.5,4.4V41.6H315.9v6.9h10.3l-1.4.5-1.1.4-.4.2-.8.4c-.1,0-.1,0-.1.1H305.7v7h9.2a10.4,10.4,0,0,0-.4,1c0,.1-.1.3-.1.4H298.5v7h16.6l.3.5.2.4h48.2V64.9Zm27.7-47.2c-.1.2-.3.3-.4.4l-.3.4v-.8Zm-5.1,4.2H325.2V17.7h13.9Zm-3.7,8.3V26.1h2.8a28.3,28.3,0,0,0-1.4,4.1Zm-10.2,8.5V34.6h11v.2a22.8,22.8,0,0,1-.6,3.9Zm-7.9,8.4V43h13.8v2.8l-1.8,1.3Zm-10.2,8.4V51.4H320a16.6,16.6,0,0,0-4.3,4.1Zm6.7,8.4H300V59.8h13.8Z"/>
+      <path class="cls-7" d="M322.4,16.3H305.7v7h16.7Zm-1.5,5.6H307.1V17.7h13.8Z"/>
+      <path class="cls-7" d="M314.4,24.7H297.7v7h16.7ZM313,30.2H299.2V26.1H313Z"/>
+      <path class="cls-7" d="M332.6,24.7H315.9v7h16.7Zm-1.5,5.5H317.3V26.1h13.8Z"/>
+      <path class="cls-7" d="M305.7,40.1h16.7V33.2H305.7Zm1.4-5.5h13.8v4.1H307.1Z"/>
+      <path class="cls-7" d="M314.4,41.6H297.7v6.9h16.7ZM313,47.1H299.2V43H313Z"/>
+      <path class="cls-7" d="M339.1,36.5V42a1.2,1.2,0,0,0,1.1,1.2h1.1v.4c0,.4.2.7.6.7s.6-.3.6-.7v-.4h1v.4a.7.7,0,0,0,.6.7c.4,0,.6-.3.6-.7v-.4h1v1.5a.7.7,0,0,0,.6.7.7.7,0,0,0,.7-.7V43.2h8.7a1.3,1.3,0,0,0,1.2-1.2V39.9h.4a.5.5,0,0,1,.5.4V44c0,.2-.1.3-.3.4l-8.6,3a.1.1,0,0,0-.1.1h-.1a.1.1,0,0,1-.1.1h-.1a.1.1,0,0,0-.1.1h0v4.4h-1a.6.6,0,0,0-.6.6v8.8a.7.7,0,0,0,.6.7h3.3a.7.7,0,0,0,.7-.7V53a.7.7,0,0,0-.7-.6h-1V48.5l8.2-2.9a1.7,1.7,0,0,0,1.2-1.6V40.3a1.8,1.8,0,0,0-1.8-1.7h-.4V36.5a1.2,1.2,0,0,0-1.2-1.2H340.2A1.1,1.1,0,0,0,339.1,36.5Zm16.5,2.7v2.7H340.3V36.6h15.3v2.6Zm-5.5,22h-2V53.7h2Z"/>
+      <path class="cls-7" d="M354,39.7H343.6a.7.7,0,0,0-.7.6.7.7,0,0,0,.7.7H354a.7.7,0,0,0,.7-.7A.7.7,0,0,0,354,39.7Z"/>
+      <path class="cls-7" d="M341.4,39.9a.6.6,0,0,0-.1.4.7.7,0,0,0,.1.5l.5.2.5-.2a.7.7,0,0,0,.1-.5.6.6,0,0,0-.1-.4A.7.7,0,0,0,341.4,39.9Z"/>
+      <path class="cls-7" d="M343.6,44.8a.9.9,0,0,0-.1.5c0,.2,0,.3.2.4s.2.2.4.2a.6.6,0,0,0,.5-.2c.1-.1.1-.2.1-.4a.6.6,0,0,0-1.1-.5Z"/>
+      <path class="cls-7" d="M341.9,44.7a.5.5,0,0,0-.6.6v1.1a.6.6,0,1,0,1.2,0V45.3A.5.5,0,0,0,341.9,44.7Z"/>
+    </g>
+  </g>
+</svg>

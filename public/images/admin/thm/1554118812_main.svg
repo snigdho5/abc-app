@@ -1,0 +1,46 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="63.31" y1="66.02" x2="9.31" y2="1.35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="71.66" y1="59.04" x2="17.66" y2="-5.63" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="63.46" y1="65.89" x2="9.46" y2="1.23" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="71.74" y1="58.98" x2="17.74" y2="-5.69" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="61.89" y1="67.2" x2="7.89" y2="2.54" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_electrical_E01</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <g>
+    <path class="cls-2" d="M27.9,17.5a6.1,6.1,0,0,0-6.1,6.1,6.1,6.1,0,0,0,12.2,0A6.1,6.1,0,0,0,27.9,17.5Zm0,10.8a4.7,4.7,0,0,1-4.7-4.7,4.7,4.7,0,0,1,9.4,0A4.7,4.7,0,0,1,27.9,28.3Z"/>
+    <path class="cls-3" d="M42.1,17.5A6.1,6.1,0,0,0,36,23.6a6.1,6.1,0,0,0,12.2,0A6.1,6.1,0,0,0,42.1,17.5Zm0,10.8a4.7,4.7,0,0,1-4.7-4.7,4.7,4.7,0,0,1,9.4,0A4.7,4.7,0,0,1,42.1,28.3Z"/>
+    <path class="cls-4" d="M30.3,22.9H28.9V21.5a.8.8,0,0,0-.8-.7.7.7,0,0,0-.7.7v1.4H26a.7.7,0,0,0,0,1.4h1.4v1.4a.7.7,0,0,0,.7.7.8.8,0,0,0,.8-.7V24.3h1.4a.7.7,0,1,0,0-1.4Z"/>
+    <path class="cls-5" d="M44.3,22.9H40.1a.7.7,0,1,0,0,1.4h4.2a.7.7,0,1,0,0-1.4Z"/>
+    <path class="cls-6" d="M35,10A25,25,0,1,0,60,35,25,25,0,0,0,35,10ZM30.8,50.1,28,46a5.2,5.2,0,0,1-1.1-3.3V39.3H29v3.4a2.3,2.3,0,0,0,.7,1.8c0,.1.1.2.2.3l2.7,4.1a7.5,7.5,0,0,1,1.2,3.9,1.1,1.1,0,0,0,.4.9h0v4.9l-2.6-.3V52.8A5,5,0,0,0,30.8,50.1Zm7.7,2.7v5.5l-2.9.3V53.8a1.2,1.2,0,0,0,.7-1,6.7,6.7,0,0,1,1.2-3.9l2.7-4.1.2-.3a2.7,2.7,0,0,0,.6-1.8V39.3h2.2v3.4A5.4,5.4,0,0,1,42,46l-2.7,4.1A4.3,4.3,0,0,0,38.5,52.8Zm1.4,5.3V52.8a3.8,3.8,0,0,1,.5-1.9l2.8-4.1a6.8,6.8,0,0,0,1.4-4.1V37.9H43.1V32.6H40.9v5.3H39.6v4.8a1.2,1.2,0,0,1-.4,1L39,44l-2.7,4.1a8.1,8.1,0,0,0-1.3,3,7.9,7.9,0,0,0-1.2-3L31,44c0-.1-.1-.2-.2-.3a1.5,1.5,0,0,1-.3-1V37.9H29.1V32.6H26.8v5.3H25.4v4.8a6.3,6.3,0,0,0,1.5,4.1l2.7,4.1a3,3,0,0,1,.5,1.9v5.3A23.6,23.6,0,1,1,58.6,35,23.8,23.8,0,0,1,39.9,58.1Z"/>
+  </g>
+</svg>

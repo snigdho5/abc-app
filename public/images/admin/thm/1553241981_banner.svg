@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Door Stopper Installation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.63673899%" y1="-11.1485635%" x2="51.5179728%" y2="97.7255544%" id="linearGradient-1">
+            <stop stop-color="#64C866" offset="0%"></stop>
+            <stop stop-color="#6EDADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23.4126974,64.2449124 L23.4126974,56.362807 L25.8280886,56.362807 L25.8280886,54.7530164 L15.6903393,42.4297038 L15.6903393,58.0128711 L7.53301965,64.2449124 L23.4126974,64.2449124 Z M34.5178776,64.2449124 L64.2070004,64.2449124 L64.2070004,5.75336161 L15.6903393,5.75336161 L15.6903393,33.7219394 L15.8786118,33.569139 L31.6210882,52.701943 L31.6210882,56.362807 L34.5178776,56.362807 L34.5178776,64.2449124 Z M0.000289649978,0.959660716 L0.000289649978,-1.27897692e-13 L70,-1.27897692e-13 L70,69.998274 L0.00225922813,69.998274 L-4.26325641e-14,70 L-4.26325641e-14,0.959660716 Z" id="Door-Stopper-Installation" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

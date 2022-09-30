@@ -1,0 +1,56 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        font-size: 6px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="41.31" y1="79.71" x2="8.71" y2="2.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64dcc2"/>
+      <stop offset="1" stop-color="#70bce6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="56.74" y1="73.21" x2="24.14" y2="-4.19" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="52.08" y1="75.17" x2="19.48" y2="-2.22" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_carpentry_C0</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <text class="cls-2" transform="translate(16.2 -12.6)"><tspan class="cls-3">K</tspan><tspan x="3.3" y="0">i</tspan><tspan class="cls-4" x="4.7" y="0">t</tspan><tspan x="6.7" y="0">chen cabinet</tspan><tspan class="cls-5"><tspan x="-4.3" y="7.2">r</tspan><tspan class="cls-6" x="-2.4" y="7.2">epair (per cabinet)</tspan></tspan></text>
+  <g>
+    <polygon class="cls-7" points="18 60.4 28.6 60.5 28.6 13.5 18 13.5 18 60.4"/>
+    <path class="cls-8" d="M30.7,64.5,54,60.3V13.7L30.7,9.5Zm2.6-51.9,18.2,3.2V58.2L33.3,61.4Z"/>
+    <path class="cls-9" d="M36,35.2A1.6,1.6,0,0,0,34.6,37,1.6,1.6,0,0,0,36,38.8,1.6,1.6,0,0,0,37.4,37,1.6,1.6,0,0,0,36,35.2Z"/>
+  </g>
+</svg>

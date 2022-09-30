@@ -1,0 +1,70 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="309.1" y="14.8" width="49.9" height="49.87"/>
+    </clipPath>
+  </defs>
+  <title>banner_civil_M0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-2" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-3" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <path id="Rectangle-Copy-4" class="cls-3" d="M189.8,29h40.5a3.3,3.3,0,0,1,3.3,3.3v.5a3.2,3.2,0,0,1-3.2,3.2H189.8a3.3,3.3,0,0,1-3.2-3.2v-.5A3.3,3.3,0,0,1,189.8,29Z"/>
+        <rect id="Rectangle-Copy-3" class="cls-3" x="64.5" y="35" width="47" height="7" rx="3.3" ry="3.3"/>
+        <path id="Rectangle-Copy-5" class="cls-3" d="M236.8,42h40.5a3.2,3.2,0,0,1,3.2,3.2v.5a3.2,3.2,0,0,1-3.2,3.2H236.8a3.3,3.3,0,0,1-3.2-3.2v-.5A3.3,3.3,0,0,1,236.8,42Z"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-4">
+            <text class="cls-5" transform="translate(298.5 26)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-4">
+            <text class="cls-5" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-6">
+    <g>
+      <path class="cls-7" d="M326.2,14.9H303v9.9h23.2Zm-1.5,8.5H304.4V16.3h20.3Z"/>
+      <path class="cls-7" d="M314.7,25.5H303v10h11.7ZM313.3,34h-8.9V26.9h8.9Z"/>
+      <path class="cls-7" d="M351.3,14.9v9.9h11.8V14.9Zm1.5,1.4h8.9v7.1h-8.9Zm10.4,19.2v-10h-1.1v-1H351.5V13.3H350v1.6H327.1v9.9h11.7v.7h-23v10h10.1v.9H303v10h16.1l.8.7h-4.1V57h23v1.1H327.1v10h23.2V58.4h1v9.7h11.8v-10h-3.3V57h3.4V47.1h-1.8v-.7h1.7v-10h-1.5v-.9ZM328.5,23.4V16.3h20.4v7.1ZM317.3,34V26.9h20.3V34Zm13.1,3.9-.9.7-1-.2v-.5Zm-13,6.1a3,3,0,0,0,.4,1H304.4V37.9h20.4v.4c-1,0-1.8-.1-2.2.4a6,6,0,0,1-2.7,2.5C318.3,41.9,317.2,42.3,317.4,44Zm2.4,1.3h-.4c-.6-.4-.5-1.4-.4-1.9a1.5,1.5,0,0,1,1.4-1.3,7.1,7.1,0,0,0,2.2-1.6.7.7,0,0,1,1,1,7.2,7.2,0,0,1-3.1,2h-.1a.8.8,0,0,0,0,.7h0a1.1,1.1,0,0,1,0,.8A.9.9,0,0,1,319.8,45.3Zm2.6,1.1a1,1,0,0,1,1,.3l1.3,2.5a3.5,3.5,0,0,0,1.7-.2.8.8,0,0,1,1,.1.7.7,0,0,1,0,1,4.6,4.6,0,0,1-2.5.6h-1.1l-1.7-3.2A.7.7,0,0,1,322.4,46.4Zm15.2,9.2H317.3V48.5h4c1.2,1.4.9,2,2.1,3.1s3.7-1.5,6-.7a38.4,38.4,0,0,1,5.2,2c.8.4,1.2,1.9,2,.7l1-1.6Zm.1-5.2h-.1l-4.2-1.8L331,47.4l-.8-.3-1.5-.7-1-.4-.4-.2h-.2l-.9-.4h-.3l-1.1-.5-2.3-1,2.3-.9,1.1-.5.3-.2.9-.4h.2l1.2-.5,6.8-3,.6-.2,2.5-1.1.7-.4.7-.2.4-.2,1.2-.5.3-.2,2.3-1v7.6h-2.9a.5.5,0,0,0-.4.2c-.2.1-.2.2-.2.4V45a.8.8,0,0,0,.2.4H344v7.7L341.4,52l-1.2-.5H340l-1-.5h-.2Zm11.2-10.3h-2.1a.6.6,0,0,0-.6.6v1.2h-.9v-4h3.6Zm6.3,1.2a2.4,2.4,0,0,1,2.4,2.4v.2h0c0,.2-.1.3-.1.4s0,.1-.1.2a.8.8,0,0,1-.2.4h0a.1.1,0,0,0-.1.1l-.5.4-.2.2h-9V41.3Zm-9,1.9v1.1h-4.4V43.2Zm2.7,23.4H328.5V59.5h20.4Zm12.8-7.1v7.1h-8.9V59.5Zm0-11v7.1H341.4V53.4l3,1.3h.6a.9.9,0,0,0,.3-.6V48.5Zm0-10.6V45h-3.1a2.7,2.7,0,0,0,.2-1.3,3.6,3.6,0,0,0-3.6-3.6h-2.4V37.9ZM345.3,34v-.7a.5.5,0,0,0-.3-.5h-.6L341.5,34h-.1V26.9h20.3V34Z"/>
+      <path class="cls-7" d="M314.7,47.1H303V57h11.7Zm-1.4,8.5h-8.9V48.5h8.9Z"/>
+      <path class="cls-7" d="M303,68.1h23.2v-10H303Zm1.4-8.6h20.3v7.1H304.4Z"/>
+    </g>
+  </g>
+</svg>

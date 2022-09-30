@@ -1,0 +1,34 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="50.1" y1="66.96" x2="18.43" y2="1.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64dcc2"/>
+      <stop offset="1" stop-color="#70bce6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="49.75" y1="67.13" x2="18.08" y2="1.65" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="50.39" y1="66.82" x2="18.72" y2="1.34" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_carpentry_C0</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <g>
+    <path class="cls-2" d="M35,28.3c-7.6,0-13.6,6.6-13.9,6.9a1.1,1.1,0,0,0,0,1.1c.3.3,6.3,6.9,13.9,6.9s13.6-6.6,13.9-6.9a1.1,1.1,0,0,0,0-1.1C48.6,34.9,42.6,28.3,35,28.3Zm0,13.2a5.8,5.8,0,1,1,5.8-5.8A5.8,5.8,0,0,1,35,41.5Z"/>
+    <path class="cls-3" d="M35.8,34.1a2.3,2.3,0,0,1,1.1-2A4.1,4.1,0,1,0,35,39.9a4.1,4.1,0,0,0,4-3.5A2.4,2.4,0,0,1,35.8,34.1Z"/>
+    <path class="cls-4" d="M35,10A25,25,0,1,0,60,35,25,25,0,0,0,35,10Zm0,48.6A23.6,23.6,0,1,1,58.6,35,23.6,23.6,0,0,1,35,58.6Z"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Door Handle  Installation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.63673899%" y1="-11.1485635%" x2="51.5179728%" y2="97.7255544%" id="linearGradient-1">
+            <stop stop-color="#64C866" offset="0%"></stop>
+            <stop stop-color="#6EDADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M43.8274369,13.1597629 L43.8274369,5.83333333 L5.85810825,5.83333333 L5.85810825,64.1666667 L43.8274369,64.1666667 L43.8274369,25.6578711 L28.9555668,27.0843727 C28.3469564,27.2357063 27.7101389,27.3160417 27.0545013,27.3160417 C22.7341465,27.3160417 19.2280687,23.8277083 19.2280687,19.5227083 C19.2280687,15.220625 22.7341465,11.7322917 27.0545013,11.7322917 C27.5792934,11.7322917 28.0920277,11.7837616 28.5878903,11.8819079 L43.8274369,13.1597629 Z M49.6855451,13.6509725 L66.0779965,15.0255 C68.2952905,15.2121667 70,17.0584167 70,19.2750833 C70,21.4713333 68.324581,23.3088333 66.1277904,23.5188333 L49.6855451,25.0959645 L49.6855451,70 L-1.77635684e-14,70 L-1.77635684e-14,0 L49.6855451,0 L49.6855451,13.6509725 Z" id="Door-Handle--Installation" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

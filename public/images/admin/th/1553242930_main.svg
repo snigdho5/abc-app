@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Kitchen handle  Installation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.63673899%" y1="-11.1485635%" x2="51.5179728%" y2="97.7255544%" id="linearGradient-1">
+            <stop stop-color="#64C866" offset="0%"></stop>
+            <stop stop-color="#6EDADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,70 L0,0 L70,0 L70,70 L0,70 Z M5.83333333,64.1666667 L64.1666667,64.1666667 L64.1666667,5.83333333 L5.83333333,5.83333333 L5.83333333,64.1666667 Z M50.138375,41.881875 L19.8604583,41.881875 C14.9400417,41.881875 10.938375,37.8772917 10.938375,32.956875 L10.938375,31.0347917 C10.938375,29.4247917 12.242125,28.118125 13.8550417,28.118125 C15.4650417,28.118125 16.7717083,29.4247917 16.7717083,31.0347917 L16.7717083,32.956875 C16.7717083,34.663125 18.157125,36.0485417 19.8604583,36.0485417 L50.138375,36.0485417 C51.8417083,36.0485417 53.2300417,34.663125 53.2300417,32.956875 L53.2300417,31.0347917 C53.2300417,29.4247917 54.5337917,28.118125 56.1467083,28.118125 C57.7567083,28.118125 59.063375,29.4247917 59.063375,31.0347917 L59.063375,32.956875 C59.063375,37.8772917 55.0587917,41.881875 50.138375,41.881875 Z" id="Kitchen-handle--Installation" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

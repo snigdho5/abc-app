@@ -1,0 +1,60 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+  </defs>
+  <title>banner_housekeeping_H0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-1" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-2" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <path id="Rectangle-Copy-4" class="cls-2" d="M189.8,29h40.5a3.2,3.2,0,0,1,3.2,3.2v.5a3.3,3.3,0,0,1-3.2,3.3H189.8a3.2,3.2,0,0,1-3.2-3.2v-.5a3.2,3.2,0,0,1,3.2-3.2Z"/>
+        <rect id="Rectangle-Copy-3" class="cls-2" x="64.5" y="35" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-5" class="cls-2" x="233.5" y="42" width="47" height="7" rx="3.3" ry="3.3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-3">
+            <text class="cls-4" transform="translate(357.2 26)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-3">
+            <text class="cls-4" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-5" d="M353.1,20.9l-8.8-5.2-8.1,4.8-8.1-4.8-8.8,5.2v9.6l-8.1,4.8V45.8l8.1,4.8v9.7l8.8,5.2,8.1-4.8,8.1,4.8,8.8-5.2V50.6l8.1-4.8V35.3l-8.1-4.8Zm-1.4.9v8.7l-7,4.2-.4.2h0l-7.4-4.4V21.8l7.4-4.4ZM343.6,45l-7.4,4.4L328.9,45V36.1h0l7.3-4.4,7.4,4.4h0ZM320.8,21.8l7.3-4.4,7.4,4.4v8.7l-7.4,4.4h0l-7.3-4.4ZM312.7,45V36.1l7.3-4.4,6.8,4.1.6.3V45L320,49.4Zm8.1,14.5V50.6l7.3-4.4,7.4,4.4v8.9l-7.4,4.4Zm30.9,0-7.4,4.4-7.4-4.4V50.6l7.4-4.4,7.4,4.4Zm8.1-23.4V45l-7.4,4.4L345,45V36.1l1.1-.6,6.4-3.8Z"/>
+    <polygon class="cls-5" points="332.7 23.6 332.7 26.9 332.7 28.2 334.1 28.2 334.1 22.8 329.3 19.9 328.6 21.1 329.7 21.8 332.7 23.6"/>
+    <polygon class="cls-5" points="324.7 38.1 324.7 41.4 324.7 42.7 326.1 42.7 326.1 37.3 321.3 34.4 321 35 320.6 35.6 321.7 36.3 324.7 38.1"/>
+    <polygon class="cls-5" points="337.4 35 337 35.6 338.2 36.3 341.1 38.1 341.1 41.4 341.1 42.7 342.5 42.7 342.5 37.3 337.8 34.4 337.4 35"/>
+    <polygon class="cls-5" points="356.7 38.1 356.7 41.4 356.7 42.7 358.1 42.7 358.1 37.3 353.4 34.4 353 35 352.6 35.6 353.7 36.3 356.7 38.1"/>
+    <polygon class="cls-5" points="349.2 23.6 349.2 26.9 349.2 28.2 350.6 28.2 350.6 22.8 345.9 19.9 345.5 20.5 345.1 21.1 346.2 21.8 349.2 23.6"/>
+    <polygon class="cls-5" points="329 49.3 328.6 49.9 329.7 50.6 332.7 52.4 332.7 55.7 332.7 57 334.1 57 334.1 51.6 329.3 48.7 329 49.3"/>
+    <polygon class="cls-5" points="349.2 52.4 349.2 55.7 349.2 57 350.6 57 350.6 51.6 345.9 48.7 345.5 49.3 345.1 49.9 346.2 50.6 349.2 52.4"/>
+  </g>
+</svg>

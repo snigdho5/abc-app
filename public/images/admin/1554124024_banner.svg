@@ -1,0 +1,57 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c8b8"/>
+      <stop offset="1" stop-color="#71bbe4"/>
+    </linearGradient>
+  </defs>
+  <title>banner_pumbing_P0</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-1" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-2" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-4" class="cls-2" x="186.5" y="29" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-3" class="cls-2" x="64.5" y="35" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-5" class="cls-2" x="233.5" y="42" width="47" height="7" rx="3.3" ry="3.3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-3">
+            <text class="cls-4" transform="translate(358 26)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-3">
+            <text class="cls-4" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="cls-5" d="M317.3,15.4a2.8,2.8,0,0,0-2.8,2.8V67.7a2.8,2.8,0,0,0,2.8,2.7h36.5a2.8,2.8,0,0,0,2.8-2.7V18.2a2.8,2.8,0,0,0-2.8-2.8Zm37.4,2.8V67.7a.9.9,0,0,1-.9.9H317.3a.9.9,0,0,1-.9-.9V18.2a1,1,0,0,1,.9-1h36.5A1,1,0,0,1,354.7,18.2Z"/>
+    <path class="cls-5" d="M352,19.1H319.1a.9.9,0,0,0-.9.9V65.8a.9.9,0,0,0,.9.9H352a.9.9,0,0,0,.9-.9V20A.9.9,0,0,0,352,19.1Zm-.9,45.8H320v-44h31.1Z"/>
+    <path class="cls-5" d="M322.7,31.3a.9.9,0,0,0,.7-.3l6.4-6.5a.7.7,0,0,0,.3-.8,1,1,0,0,0-.7-.7.9.9,0,0,0-.9.3l-6.4,6.4a.8.8,0,0,0-.2,1A.8.8,0,0,0,322.7,31.3Z"/>
+    <path class="cls-5" d="M341.3,63.1a.9.9,0,0,0,1.3,0l6.4-6.5a.9.9,0,0,0,0-1.3,1.1,1.1,0,0,0-1.3,0l-6.4,6.5A.9.9,0,0,0,341.3,63.1Z"/>
+    <path class="cls-5" d="M325.8,52.7a.9.9,0,0,0,1.3,0l18.2-18.3a.9.9,0,0,0,0-1.3,1,1,0,0,0-1.3,0L325.8,51.4A.9.9,0,0,0,325.8,52.7Z"/>
+  </g>
+</svg>

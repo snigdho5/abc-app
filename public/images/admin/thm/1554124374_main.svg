@@ -1,0 +1,52 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f6f6;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="49.73" y1="66.18" x2="21.86" y2="1.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="68.41" y1="58.08" x2="40.54" y2="-6.23" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="38.68" y1="70.97" x2="10.81" y2="6.65" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="46.91" y1="67.4" x2="19.04" y2="3.08" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="55.54" y1="63.66" x2="27.67" y2="-0.66" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="61.54" y1="61.06" x2="33.67" y2="-3.26" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_plumbing_P0</title>
+  <path id="Rectangle" class="cls-1" d="M3,0H67a2.9,2.9,0,0,1,3,3V67a2.9,2.9,0,0,1-3,3H3a2.9,2.9,0,0,1-3-3V3A2.9,2.9,0,0,1,3,0Z"/>
+  <g>
+    <path class="cls-2" d="M58.6,20H10.9a.7.7,0,1,0,0,1.4h6.3l.2,38L26.7,57c1.1.4,6.3,2.2,9.4,2.2s8.2-1.8,9.3-2.2l9.1,2.2h.8V21.4h3.3a.7.7,0,1,0,0-1.4Zm-14,35.8a42.3,42.3,0,0,1-7.8,1.9V21.4h7.8ZM27.4,21.4h8V57.7a45.1,45.1,0,0,1-8-1.9Zm-8.8,0H26V55.7l-7.2,1.8ZM53.8,57.5l-7.7-1.8V21.4h7.7Z"/>
+    <path class="cls-3" d="M44.4,10.9h-.9a.7.7,0,0,0-.7.7v1.7c-.4,0-.6.3-.6.7v.6a3.6,3.6,0,0,0-2.6,2.6.6.6,0,0,0-.5.6v.7a.6.6,0,0,0,.5.6h7.9a.6.6,0,0,0,.5-.6v-.7c0-.4-.2-.6-.5-.6h-.1a3.8,3.8,0,0,0-2.5-2.6V14a.8.8,0,0,0-.5-.7v-.8H60.2V10.9Z"/>
+    <path class="cls-4" d="M24.2,21.7a.7.7,0,0,0-.7.7V52.8a.7.7,0,0,0,1.4,0V22.4A.7.7,0,0,0,24.2,21.7Z"/>
+    <path class="cls-5" d="M33.5,21.7a.7.7,0,0,0-.7.7V50.5a.7.7,0,0,0,1.4,0V22.4A.7.7,0,0,0,33.5,21.7Z"/>
+    <path class="cls-6" d="M42.7,46.4a.9.9,0,0,0,.8-.8v-23a.8.8,0,0,0-.8-.7.7.7,0,0,0-.7.7v23A.8.8,0,0,0,42.7,46.4Z"/>
+    <path class="cls-7" d="M52.1,55.3a.8.8,0,0,0,.8-.7V24.2a.8.8,0,0,0-.8-.7.8.8,0,0,0-.7.7V54.6A.8.8,0,0,0,52.1,55.3Z"/>
+  </g>
+</svg>

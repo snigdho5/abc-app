@@ -1,0 +1,51 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="374.5" height="89.4" viewBox="0 0 374.5 89.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Montserrat-Medium, Montserrat;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="405.55" y1="126.36" x2="21.53" y2="-32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c9b9"/>
+      <stop offset="1" stop-color="#72bde5"/>
+    </linearGradient>
+  </defs>
+  <title>banner_electrical_E01</title>
+  <g id="Page-1">
+    <g id="UI---Screen-7---v2">
+      <g id="Group-2">
+        <path id="Path-4" class="cls-1" d="M0,72.4C71,74,112,68.2,210.5,71c58.9,1.7,113.3,7.8,164,18.4V0H0Z"/>
+        <rect id="Rectangle-Copy-2" class="cls-2" x="23.5" y="22" width="47" height="7" rx="3.3" ry="3.3"/>
+        <rect id="Rectangle-Copy-4" class="cls-2" x="186.5" y="29" width="47" height="7" rx="3.3" ry="3.3"/>
+        <path id="Rectangle-Copy-3" class="cls-2" d="M67.8,35h40.5a3.3,3.3,0,0,1,3.3,3.3v.5a3.2,3.2,0,0,1-3.2,3.2H67.8a3.3,3.3,0,0,1-3.2-3.2v-.5A3.3,3.3,0,0,1,67.8,35Z"/>
+        <rect id="Rectangle-Copy-5" class="cls-2" x="233.5" y="42" width="47" height="7" rx="3.3" ry="3.3"/>
+        <g id="sweep">
+          <g id="_" data-name="+" class="cls-3">
+            <text class="cls-4" transform="translate(306 26)">+</text>
+          </g>
+          <g id="_-copy" data-name="+-copy" class="cls-3">
+            <text class="cls-4" transform="translate(336.5 14)">+</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="cls-5" d="M354.1,66V22.6a3.3,3.3,0,0,0-3.3-3.3H328.9a3.2,3.2,0,0,0-3.3,3.3v2.8h-8.4a.9.9,0,0,0-1,1v5a.8.8,0,0,0,.1.4l.2.3,8.8,8.8a5.5,5.5,0,0,0-1.4,3.7,5.2,5.2,0,0,0,1.7,3.9V66a3.3,3.3,0,0,0,3.3,3.3h21.9A3.3,3.3,0,0,0,354.1,66Zm-36-35.6V27.3h14.2v3.1Zm15.2,20.1v-.8h12.6v.8Zm-6.4-10.7-7.4-7.4h13.4l7.7,7H328.5A4.2,4.2,0,0,0,326.9,39.8Zm15.8,1.6a.8.8,0,0,0,.7-.7h0a1.1,1.1,0,0,0,.3-.7,1.5,1.5,0,0,0-.3-.7L334.2,31V28.4l11.5,9.3h.2v10h-3.2a3.1,3.1,0,0,1-2.1-3.1A3.3,3.3,0,0,1,342.7,41.4Zm-14.2,0h11.2a5.1,5.1,0,0,0-1,3.2,5.3,5.3,0,0,0,1,3.2H328.5c-1.5,0-2.6-1.5-2.6-3.2S327,41.4,328.5,41.4Zm-1,8.2h3.8v1.8a1.1,1.1,0,0,0,1,1h13.6v2.9a1,1,0,0,0,1,1,1,1,0,0,0,.9-1V31.1a1,1,0,0,0-.9-1,1,1,0,0,0-1,1v4.2l-12-9.7h-6.4V22.6a1.4,1.4,0,0,1,1.4-1.4h21.9a1.3,1.3,0,0,1,1.3,1.4V66a1.3,1.3,0,0,1-1.3,1.3H328.9a1.3,1.3,0,0,1-1.4-1.3Z"/>
+</svg>
